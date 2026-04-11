@@ -1,0 +1,5 @@
+PubSubClient
+DHT sensor library
+U8g2
+UniversalTelegramBot
+ArduinoJson
